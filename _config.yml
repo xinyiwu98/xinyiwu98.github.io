@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zihui Wu"
+title                    : "Xinyi Wu"
 title_separator          : "-"
-name                     : &name "Zihui Wu"
+name                     : &name "Xinyi Wu"
 description              : &description "personal description"
-url                      : "https://zihuiwu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://xinyiwu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zihuiwu/zihuiwu.github.io"
+repository               : "xinyiwu98/xinyiwu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zihui (Ray) Wu 吴子晖"
+  name             : "Xinyi Wu 吴欣怡"
   avatar           : "photo.png"
-  bio              : "PhD student @ Caltech CMS"
-  location         : "Pasadena, CA"
+  bio              : "PhD student @ MIT IDSS"
+  location         : "Cambridge, MA"
   employer         :
   pubmed           :
-  googlescholar    : &googlescholar "https://scholar.google.com/citations?user=SU7yjxAAAAAJ&hl=en"
+  googlescholar    : &googlescholar "https://scholar.google.com/citations?user=8XLc5hsAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zihuiwu"
+  github           : "xinyiwu98"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "zihui-ray-wu/"
-  orcid            : "https://orcid.org/0000-0002-7622-3548"
+  linkedin         : 
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
