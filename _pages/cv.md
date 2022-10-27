@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-* [Here](http://xinyiwu98.github.io/files/Xinyi_Wu_CV.pdf) is a PDF of my CV.
+* [Here](http://xinyiwu98.github.io/files/CV_oct_22.pdf) is a PDF of my CV.
